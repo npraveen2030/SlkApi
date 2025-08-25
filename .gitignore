@@ -3,3 +3,16 @@
 ################################################################################
 
 /SlkApi/bin/Debug/net8.0
+/SlkApi/obj
+/SlkApiUnitTestCases/bin/Debug/net8.0
+/SlkApiUnitTestCases/obj
+/SlkBLL/bin/Debug/net8.0
+/SlkBLL/obj
+/SlkBllUnitTestCases/obj
+/SlkBllUnitTestCases/bin/Debug/net8.0
+/SlkDAL/bin/Debug/net8.0
+/SlkDAL/obj
+/SlkDalUnitTestCases/bin/Debug/net8.0
+/SlkDalUnitTestCases/obj
+/SlkModel/bin/Debug/net8.0
+/SlkModel/obj
